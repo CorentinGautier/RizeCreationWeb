@@ -60,6 +60,9 @@ h6 {
   }
 }
 
+.align-center{
+ float: center;
+}
 ::-moz-selection {
   background: #fed136;
   text-shadow: none;
